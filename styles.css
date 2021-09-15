@@ -20,7 +20,7 @@ body{
 }
 .navigation{
     padding:1rem;
-    background-color:#FFBF00;
+    background-color:#184a45ff;
     opacity: 0.8;
     padding:1rem;
     font-size:x-large;
@@ -29,7 +29,7 @@ body{
 }
 .foot{
     padding:1rem;
-    background-color:#FFBF00;
+    background-color:#fc766aff;
     opacity: 0.8;
     padding:rem;
     font-size:x-large;
